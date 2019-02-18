@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/storybooks/vue-cli-plugin-storybook#readme",
   "dependencies": {
-    "@storybook/addons": "^4.1.0",
-    "@storybook/vue": "^4.1.0",
+    "@storybook/addons": "^4.2.0-alpha.11",
+    "@storybook/vue": "^4.2.0-alpha.11",
     "commander": "^2.19.0"
   },
   "devDependencies": {
